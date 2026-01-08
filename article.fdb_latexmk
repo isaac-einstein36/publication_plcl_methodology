@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber article"] 1767881554.85969 "article.bcf" "article.bbl" "article" 1767881565.13778 0
-  "article.bcf" 1767881564.88937 108017 4e39166d60900511e8fc3b0d717cb661 "pdflatex"
-  "sample.bib" 1675708410 423 bb4d4040f48aec7c0bc550ef99e007d4 ""
+["biber article"] 1767881554.85969 "article.bcf" "article.bbl" "article" 1767883144.94735 0
+  "article.bcf" 1767883144.72413 108017 4e39166d60900511e8fc3b0d717cb661 "pdflatex"
+  "sample.bib" 1767883044.01256 423 bb4d4040f48aec7c0bc550ef99e007d4 ""
   (generated)
   "article.bbl"
   "article.blg"
   (rewritten before read)
-["pdflatex"] 1767881562.34547 "/Users/sierrabasic/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Ohio State/Master's Degree/_Teams Folder/Publications/Isaac/LaTeXTemplates_journal-article_v2/article.tex" "article.pdf" "article" 1767881565.13845 0
-  "/Users/sierrabasic/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Ohio State/Master's Degree/_Teams Folder/Publications/Isaac/LaTeXTemplates_journal-article_v2/article.tex" 1675822172 19772 c7ae37a22ece227546d485553ec6f474 ""
+["pdflatex"] 1767883142.35071 "/Users/sierrabasic/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Ohio State/Master's Degree/_Teams Folder/Publications/Isaac/Github Repos/plcl_methodology/article.tex" "article.pdf" "article" 1767883144.94797 0
+  "/Users/sierrabasic/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Ohio State/Master's Degree/_Teams Folder/Publications/Isaac/Github Repos/plcl_methodology/article.tex" 1767883044.0123 19772 c7ae37a22ece227546d485553ec6f474 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -135,14 +135,14 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1757606001 5467155 19efa205003f9ecad95fbbaa6ff24da1 ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1741450574 3345740 46b66fdb0378f7bf5921b5eabf1762b8 ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
-  "Figures/Fibroblastid.jpg" 1675462766 1196031 4586114cceabf6743681870dd8aeb612 ""
-  "Figures/Tolmukapea.jpg" 1675450850 653480 1eec97ed292c65b5c5bd54bfe0606110 ""
-  "LTJournalArticle.cls" 1675822448 9784 e38e4f05326438c9cfb0a6c6bf9f0764 ""
-  "article.aux" 1767881564.88311 4031 e91753de1f1573ef333f613eeb660da1 "pdflatex"
-  "article.bbl" 1767881559.44024 3462 f29cd340e6e4c6d07e4d2894cd627da5 "biber article"
-  "article.out" 1767881564.88509 1565 59e2c02a582909cb38775fec7280f07c "pdflatex"
-  "article.run.xml" 1767881564.89177 2322 8cdf8c1b4f346e94ab47556d24722445 "pdflatex"
-  "article.tex" 1675822172 19772 c7ae37a22ece227546d485553ec6f474 ""
+  "Figures/Fibroblastid.jpg" 1767883043.99011 1196031 4586114cceabf6743681870dd8aeb612 ""
+  "Figures/Tolmukapea.jpg" 1767883043.99562 653480 1eec97ed292c65b5c5bd54bfe0606110 ""
+  "LTJournalArticle.cls" 1767883043.99066 9784 e38e4f05326438c9cfb0a6c6bf9f0764 ""
+  "article.aux" 1767883144.72073 4031 e91753de1f1573ef333f613eeb660da1 "pdflatex"
+  "article.bbl" 1767883043.99628 3462 f29cd340e6e4c6d07e4d2894cd627da5 "biber article"
+  "article.out" 1767883144.72223 1565 59e2c02a582909cb38775fec7280f07c "pdflatex"
+  "article.run.xml" 1767883144.7257 2322 8cdf8c1b4f346e94ab47556d24722445 "pdflatex"
+  "article.tex" 1767883044.0123 19772 c7ae37a22ece227546d485553ec6f474 ""
   (generated)
   "article.aux"
   "article.bcf"

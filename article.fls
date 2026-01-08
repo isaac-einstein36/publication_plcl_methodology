@@ -1,8 +1,8 @@
-PWD /Users/sierrabasic/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Ohio State/Master's Degree/_Teams Folder/Publications/Isaac/LaTeXTemplates_journal-article_v2
+PWD /Users/sierrabasic/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Ohio State/Master's Degree/_Teams Folder/Publications/Isaac/Github Repos/plcl_methodology
 INPUT /usr/local/texlive/2025/texmf.cnf
 INPUT /usr/local/texlive/2025/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/sierrabasic/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Ohio State/Master's Degree/_Teams Folder/Publications/Isaac/LaTeXTemplates_journal-article_v2/article.tex
+INPUT /Users/sierrabasic/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Ohio State/Master's Degree/_Teams Folder/Publications/Isaac/Github Repos/plcl_methodology/article.tex
 OUTPUT article.log
 INPUT ./LTJournalArticle.cls
 INPUT LTJournalArticle.cls
