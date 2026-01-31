@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex article"] 1769886180.25662 "article.aux" "article.bbl" "article" 1769886217.35379 0
+["bibtex article"] 1769889241.76184 "article.aux" "article.bbl" "article" 1769889246.7715 0
   "./MSP.bst" 1582307478 26450 b456d464b63b8e5c8bafa88febdc4093 ""
-  "./reference.bib" 1769808301.55515 337482 a3ea728f186e1b2eeea290136ccf4564 ""
-  "article.aux" 1769886216.53019 5215 27b94dba5c72d3b9a2bd739313bcae91 "pdflatex"
+  "./reference.bib" 1769889224.2351 337663 30c02a4e172423c427b1a2ca26c3594f ""
+  "article.aux" 1769889245.6878 7645 f599f52eb5dfdd66ff07cf674724e8ce "pdflatex"
   (generated)
   "article.bbl"
   "article.blg"
   (rewritten before read)
-["pdflatex"] 1769886213.99338 "/Users/sierrabasic/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Ohio State/Master's Degree/_Teams Folder/Publications/Isaac/Github Repos/plcl_methodology/article.tex" "article.pdf" "article" 1769886217.35423 0
+["pdflatex"] 1769889242.24895 "/Users/sierrabasic/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Ohio State/Master's Degree/_Teams Folder/Publications/Isaac/Github Repos/plcl_methodology/article.tex" "article.pdf" "article" 1769889246.77205 0
   "/Users/sierrabasic/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Ohio State/Master's Degree/_Teams Folder/Publications/Isaac/Github Repos/plcl_methodology/article.tex" 1769885529.73129 6766 fbe681568b35fe06a9341c43ee635756 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/ectt1000.tfm" 1136768653 1536 06717a2b50de47d4087ac0e6cd759455 ""
@@ -180,14 +180,14 @@
   "WileyMSP-template.cls" 1769885898.81818 890 fccc1dcfb737fba9e747787061b1dae0 ""
   "abstract.tex" 1769804227.0015 17 607209acab896cdcd5b47194925c2222 ""
   "additionalNotes.tex" 1769885934.2629 822 ccd2058b929d50243f1ad9b022f9ff20 ""
-  "article.aux" 1769886216.53019 5215 27b94dba5c72d3b9a2bd739313bcae91 "pdflatex"
-  "article.bbl" 1769886180.63898 1370 50a5318fd4a310b48dd55cad31776d13 "bibtex article"
+  "article.aux" 1769889245.6878 7645 f599f52eb5dfdd66ff07cf674724e8ce "pdflatex"
+  "article.bbl" 1769889242.23138 3500 a2018de329883851a692befb5bd0b109 "bibtex article"
   "article.tex" 1769885529.73129 6766 fbe681568b35fe06a9341c43ee635756 ""
   "bio-placeholder.jpg" 1583444882 5609 16788fd7cb658c6b14904f6fe7c51b38 ""
   "figs/introduction/copolymer_printability_grid_test.png" 1769886045.7262 384075 998cdcbaae564af6e6168717394c23a5 ""
   "figs/introduction/copolymer_ratio_mechanical_properties.png" 1769885081.55075 437870 4b58300eb39e61e4f6b5f6a745429a03 ""
   "figs/introduction/pcl_for_elastic_behavior.png" 1769885283.9253 39642 a065ea115d4c54d3261129b05096e70c ""
-  "introduction.tex" 1769886214.13591 5746 3789863da91a4f88b39560fe55b229b0 ""
+  "introduction.tex" 1769889238.06012 10079 f109138bc7b9287d7d52913c8a422ded ""
   "placeholder-image.png" 1583444420 1503 6ea22554e50f3cf05a2026cc82e6319a ""
   "toc-image.png" 1583444782 523 1c8cf3663dbda46f15e56ca82c2c6690 ""
   "vch-logo.png" 1583441200 16843 5a83511284c01ef8049ac93701c62b27 ""

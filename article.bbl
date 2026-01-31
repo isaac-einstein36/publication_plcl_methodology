@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
 
@@ -28,5 +28,43 @@ N.~K. Kalita, S.~M. Bhasney, C.~Mudenur, A.~Kalamdhad, V.~Katiyar,
 \bibitem{RefWorks:RefID:18-v2022assessing}
 R.~V. G, J.~Wilson, L.~V. Thomas, P.~D. Nair,
 \newblock \emph{ACS omega} \textbf{2022}, \emph{7}, 8 7002, -70/30 PLCL is the best mixture level for printability.
+
+\bibitem{RefWorks:RefID:253-åkerlund2022effect}
+E.~Åkerlund, A.~Diez-Escudero, A.~Grzeszczak, C.~Persson,
+\newblock \emph{Polymers} \textbf{2022}, \emph{14}, 16.
+
+\bibitem{RefWorks:RefID:302-chen2025structure}
+M.~Chen, Y.~Chen, H.~He, X.~Zhou, N.~Chen,
+\newblock \emph{Polymers} \textbf{2025}, \emph{17}, 7.
+
+\bibitem{RefWorks:RefID:251-fernández‐tena2023highimpact}
+A.~Fernández‐tena, I.~Otaegi, L.~Irusta, V.~Sebastián, G.~Guerrica‐echevarria, A.~J. Müller, N.~Aranburu,
+\newblock High‐impact {PLA} in compatibilized {PLA}/{PCL} blends: Optimization of blend composition and type and content of compatibilizer, \textbf{2023},
+\newblock \urlprefix\url{https://www.proquest.com/docview/2901250674?pq-origsite=primo\&searchKeywords=10.1002\%2Fmame.202300213\&sourcetype=Scholarly\%20Journals}.
+
+\bibitem{RefWorks:RefID:62-ning2015additive}
+F.~Ning, W.~Cong, J.~Qiu, J.~Wei, S.~Wang,
+\newblock \emph{Composites Part B: Engineering} \textbf{2015}, \emph{80}, key Point:<br>- To combine materials before extruding filament, using a blender may be required.
+
+\bibitem{RefWorks:RefID:254-navarro-baena2016design}
+I.~Navarro-Baena, V.~Sessini, F.~Dominici, L.~Torre, J.~M. Kenny, L.~Peponi,
+\newblock \emph{Polymer Degradation and Stability} \textbf{2016}, \emph{132}.
+
+\bibitem{RefWorks:RefID:363-savidevelopment}
+M.~Savi, .~Andrade, .~Villani, .~Rodrigues, M.~P.~A. Potiens,
+\newblock Development of {FFF} filaments for bone and teeth representation in {3D} printed radiological objects.
+
+\bibitem{RefWorks:RefID:419-twin}
+What is a twin screw extruder? types, applications, and benefits explained,
+\newblock \urlprefix\url{https://www.nanoscience.com/blogs/what-is-a-twin-screw-extruder-types-applications-and-benefits-explained/}.
+
+\bibitem{RefWorks:RefID:508-lattice}
+Lattice medical's success story pioneering medical advances,
+\newblock \urlprefix\url{https://www.3devo.com/lattice-medical-case-study}.
+
+\bibitem{RefWorks:RefID:42-latticemedical}
+L.~Services,
+\newblock Medical grade {PLCL} filament,
+\newblock \urlprefix\url{https://lattice-services.com/en/absorbable-implantable-filaments/caprolactisse-70-30/}.
 
 \end{thebibliography}
