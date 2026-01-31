@@ -5,7 +5,7 @@
 \label{sec:introduction:motivation}
 PLCL (poly(l-lactide-co-$\epsilon$-caprolactone)) is a copolymer of poly(lactide acid) (PLA) and poly($\epsilon$-caprolactone) (PCL). These polymers are commonly used implantable materials for their biodegradability, non-toxic degradation products, and biocompatibility. Polyester-based polymers have increasingly been researched for use in biomedical applications~\cite{RefWorks:RefID:303-luo2023fabrication,RefWorks:RefID:31-fernández2012synthesis,RefWorks:RefID:19-zhang2021synthesis,RefWorks:RefID:304-jeong2018mechanical}.
 
-This research focused on extruding using a tabletop extruder. This methodology makes PLCL synthesis more accessible for small-scale labs. Additionally, it allows for fine-tuning of material composition which can directly impact degradation timeline, material properties, and performance characteristics (\hl{I forget what we meant by "performance characteristics"}).
+This research focused on extruding using a tabletop extruder. This methodology makes PLCL synthesis more accessible for small-scale labs. Additionally, it allows for fine-tuning of material composition which can directly impact degradation timeline, material properties, and performance characteristics such as 3D printability.
 
 \subsubsection{Increasing Accessibility}
 \label{sec:introduction:motivation:increasingAccessibility}
@@ -21,13 +21,43 @@ Adjusting the material composition of PLCL, the percent composition of PLA and P
 
 \threesubsection{Degradation timeline}
 
+\hl{Very little of my research revolved around degradation, but I can add more to this if you'd prefer.}
+
 The synthesis method as well as co-polymer material composition of PLCL affects the material's degradation timeline. By adjusting the breakdown of PLA and PCL in the blend, the time needed to fully biodegrade within the body can by altered~\cite{RefWorks:RefID:303-luo2023fabrication,RefWorks:RefID:507-kalita2020endoflife}.
 
 \threesubsection{Material properties}
 
+The material composition of PLCL has been found to directly impact material properties such as tensile strength and elastic modulus~\cite{RefWorks:RefID:303-luo2023fabrication,RefWorks:RefID:19-zhang2021synthesis}.
+
+PLA exhibits high strength but uncontrollable biodegradability and excessive brittleness. PCL, alternatively, is a softer material that exhibits low strength but high toughness. When combined to create PLCL, PCL incorporation can counteract the brittleness of PLA but decreases overall strength~\cite{RefWorks:RefID:19-zhang2021synthesis,RefWorks:RefID:303-luo2023fabrication}.
+
+Research has been conducted to evaluate the changes in properties based on various PLA/PCL ratios. These studies conclude that elongation at break generally increases with a higher percentage of PCL, and tensile strength and Young's modulus decrease with an increase in PCL~\cite{RefWorks:RefID:31-fernández2012synthesis,RefWorks:RefID:303-luo2023fabrication,RefWorks:RefID:18-v2022assessing}. Some of these results are shown below in Figure~\ref{fig:introduction:copolymerRatioProperties}.
+
+\begin{figure}
+        \includegraphics[width=\linewidth]{./figs/introduction/copolymer_ratio_mechanical_properties.png}
+        \caption{Changes in mechanical properties as PLA/PCL ratios are adjusted. (A,D) Elongation at break, (B,E) Tensile Strength, (C,F) Young's Modulus. Reproduced with permission.\textsuperscript{\cite{RefWorks:RefID:303-luo2023fabrication}} Copyright Year, Publisher. }
+        \label{fig:introduction:copolymerRatioProperties}
+\end{figure}
+
+Additionally, elastic behavior was only exhibited when PCL composition was high enough such as at least 30\% as illustrated in Figure~\ref{fig:introduction:pclForElasticBehavior}~\cite{RefWorks:RefID:18-v2022assessing}.
+
+\begin{figure}
+        \includegraphics[width=\linewidth]{./figs/introduction/pcl_for_elastic_behavior.png}
+        \caption{Changes in elastic behavior with increased PCL percentage. Reproduced with permission.\textsuperscript{\cite{RefWorks:RefID:18-v2022assessing}} Copyright Year, Publisher.}
+        \label{fig:introduction:pclForElasticBehavior}
+\end{figure}
+
 \threesubsection{Performance characteristics}
 
-\hl{See Above Note}
+\hl{Were there other "performance characteristics" besides 3D printability?}
+
+Performance characteristics such as 3D printability of the PLCL output are also affected by material composition. One study compared the printability of 70/30 and 65/35 PLA/PCL. Through various calibration testing, it was found that 70/30 PLA/PCL was the most printable PLCL copolymer~\cite{RefWorks:RefID:18-v2022assessing}. Figure~\ref{fig:introduction:copolymerGridTest} helps illustrate these differences in printability.
+
+\begin{figure}
+        \includegraphics[width=\linewidth]{./figs/introduction/copolymer_printability_grid_test.png}
+        \caption{Evaulating printability of 65/35 (left) and 70/30 (right) PLCL through a grid test. Reproduced with permission.\textsuperscript{\cite{RefWorks:RefID:18-v2022assessing}} Copyright Year, Publisher.}
+        \label{fig:introduction:copolymerGridTest}
+\end{figure}
 
 \subsection{Existing Methods}
 \label{sec:introduction:existingMethods}
