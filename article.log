@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  8 JAN 2026 22:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  31 JAN 2026 12:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/sierrabasic/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Ohio State/Master's Degree/_Teams Folder/Publications/Isaac/MSP-Latex-Template/article.tex"
-(/Users/sierrabasic/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Ohio State/Master's Degree/_Teams Folder/Publications/Isaac/MSP-Latex-Template/article.tex
+**"/Users/sierrabasic/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Ohio State/Master's Degree/_Teams Folder/Publications/Isaac/Github Repos/plcl_methodology/article.tex"
+(/Users/sierrabasic/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Ohio State/Master's Degree/_Teams Folder/Publications/Isaac/Github Repos/plcl_methodology/article.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (./WileyMSP-template.cls
@@ -113,9 +113,53 @@ Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \@temptokenb=\toks19
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/gensymb/gensymb.sty
 Package: gensymb 2022/10/17 v1.0.2 (KJH)
-)) (/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/soul/soul.sty
+Package: soul 2023-06-14 v3.1 Permit use of UTF-8 characters in soul (HO)
+ (/usr/local/texlive/2025/texmf-dist/tex/generic/soul/soul-ori.sty
+Package: soul-ori 2023-06-14 v3.1 letterspacing/underlining (mf)
+\SOUL@word=\toks20
+\SOUL@lasttoken=\toks21
+\SOUL@syllable=\toks22
+\SOUL@cmds=\toks23
+\SOUL@buffer=\toks24
+\SOUL@token=\toks25
+\SOUL@syllgoal=\dimen160
+\SOUL@syllwidth=\dimen161
+\SOUL@charkern=\dimen162
+\SOUL@hyphkern=\dimen163
+\SOUL@dimen=\dimen164
+\SOUL@dimeni=\dimen165
+\SOUL@minus=\count275
+\SOUL@comma=\count276
+\SOUL@apo=\count277
+\SOUL@grave=\count278
+\SOUL@spaceskip=\skip79
+\SOUL@ttwidth=\dimen166
+\SOUL@uldp=\dimen167
+\SOUL@ulht=\dimen168
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (/usr/local/texlive/2025/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+))) (/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count275
+\l__color_backend_stack_int=\count279
 \l__pdf_internal_box=\box52
 ) (./article.aux
 
@@ -143,17 +187,17 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
  (/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count276
-\scratchdimen=\dimen160
+\scratchcounter=\count280
+\scratchdimen=\dimen169
 \scratchbox=\box53
-\nofMPsegments=\count277
-\nofMParguments=\count278
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count279
-\MPscratchDim=\dimen161
-\MPnumerator=\count280
-\makeMPintoPDFobject=\count281
-\everyMPtoPDFconversion=\toks21
+\nofMPsegments=\count281
+\nofMParguments=\count282
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count283
+\MPscratchDim=\dimen170
+\MPnumerator=\count284
+\makeMPintoPDFobject=\count285
+\everyMPtoPDFconversion=\toks27
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -207,61 +251,24 @@ Package gensymb Info: Using \Omega for \ohm on input line 3.
 
 Package gensymb Warning: Not defining \micro.
 
+(./abstract.tex) (./introduction.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 6.
 
-Overfull \hbox (16.87062pt too wide) in paragraph at lines 115--115
-\OT1/cmr/m/n/12 2 ((Work ac-cepted)) A. B. Au-thor 1, C. D. Au-thor 2, Macro-mol. Rapid Com-mun., DOI: 10.1002/marc.DOI.  
+Overfull \hbox (21.22752pt too wide) in paragraph at lines 6--7
+\OT1/cmr/m/n/12 PLCL (poly(l-lactide-co-$\OML/cmm/m/it/12 ^^O$\OT1/cmr/m/n/12 -caprolactone)) is a copoly-mer of poly(lactide acid) (PLA) and poly($\OML/cmm/m/it/12 ^^O$\OT1/cmr/m/n/12 -caprolactone) 
  []
 
+)
 
-Overfull \hbox (25.0997pt too wide) in paragraph at lines 120--120
-\OT1/cmr/m/n/12 7 ((Patents)) a) A. B. Au-thor 1, C. D. Au-thor 2 (Com-pany), Coun-try Patent Num-ber, Year; b) W. Lehmann, 
- []
-
-<placeholder-image.png, id=1, 284.5029pt x 284.5029pt>
-File: placeholder-image.png Graphic file (type png)
-<use placeholder-image.png>
-Package pdftex.def Info: placeholder-image.png  used on input line 133.
-(pdftex.def)             Requested size: 542.02501pt x 542.02843pt.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 134.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 134.
-File: placeholder-image.png Graphic file (type png)
-<use placeholder-image.png>
-Package pdftex.def Info: placeholder-image.png  used on input line 139.
-(pdftex.def)             Requested size: 542.02501pt x 542.02843pt.
-File: placeholder-image.png Graphic file (type png)
-<use placeholder-image.png>
-Package pdftex.def Info: placeholder-image.png  used on input line 145.
-(pdftex.def)             Requested size: 542.02501pt x 542.02843pt.
-<bio-placeholder.jpg, id=2, 113.7048pt x 142.3719pt>
-File: bio-placeholder.jpg Graphic file (type jpg)
-<use bio-placeholder.jpg>
-Package pdftex.def Info: bio-placeholder.jpg  used on input line 169.
-(pdftex.def)             Requested size: 113.70451pt x 142.37154pt.
-File: bio-placeholder.jpg Graphic file (type jpg)
-<use bio-placeholder.jpg>
-Package pdftex.def Info: bio-placeholder.jpg  used on input line 174.
-(pdftex.def)             Requested size: 113.70451pt x 142.37154pt.
-File: bio-placeholder.jpg Graphic file (type jpg)
-<use bio-placeholder.jpg>
-Package pdftex.def Info: bio-placeholder.jpg  used on input line 179.
-(pdftex.def)             Requested size: 113.70451pt x 142.37154pt.
-File: bio-placeholder.jpg Graphic file (type jpg)
-<use bio-placeholder.jpg>
-Package pdftex.def Info: bio-placeholder.jpg  used on input line 184.
-(pdftex.def)             Requested size: 113.70451pt x 142.37154pt.
-<toc-image.png, id=3, 156.585pt x 142.3719pt>
-File: toc-image.png Graphic file (type png)
-<use toc-image.png>
-Package pdftex.def Info: toc-image.png  used on input line 196.
-(pdftex.def)             Requested size: 156.58461pt x 142.37154pt.
-
-
-<vch-logo.png, id=4, 71.0655pt x 21.1992pt>
+<vch-logo.png, id=1, 71.0655pt x 21.1992pt>
 File: vch-logo.png Graphic file (type png)
 <use vch-logo.png>
-Package pdftex.def Info: vch-logo.png  used on input line 202.
+Package pdftex.def Info: vch-logo.png  used on input line 74.
 (pdftex.def)             Requested size: 71.13188pt x 21.21951pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -272,11 +279,51 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [1
 
-{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./vch-logo.png>]
+{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./vch-logo.png>] (./article.bbl)
+<placeholder-image.png, id=17, 284.5029pt x 284.5029pt>
+File: placeholder-image.png Graphic file (type png)
+<use placeholder-image.png>
+Package pdftex.def Info: placeholder-image.png  used on input line 131.
+(pdftex.def)             Requested size: 542.02501pt x 542.02843pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 132.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 132.
+File: placeholder-image.png Graphic file (type png)
+<use placeholder-image.png>
+Package pdftex.def Info: placeholder-image.png  used on input line 137.
+(pdftex.def)             Requested size: 542.02501pt x 542.02843pt.
+File: placeholder-image.png Graphic file (type png)
+<use placeholder-image.png>
+Package pdftex.def Info: placeholder-image.png  used on input line 143.
+(pdftex.def)             Requested size: 542.02501pt x 542.02843pt.
+<bio-placeholder.jpg, id=18, 113.7048pt x 142.3719pt>
+File: bio-placeholder.jpg Graphic file (type jpg)
+<use bio-placeholder.jpg>
+Package pdftex.def Info: bio-placeholder.jpg  used on input line 167.
+(pdftex.def)             Requested size: 113.70451pt x 142.37154pt.
+File: bio-placeholder.jpg Graphic file (type jpg)
+<use bio-placeholder.jpg>
+Package pdftex.def Info: bio-placeholder.jpg  used on input line 172.
+(pdftex.def)             Requested size: 113.70451pt x 142.37154pt.
+File: bio-placeholder.jpg Graphic file (type jpg)
+<use bio-placeholder.jpg>
+Package pdftex.def Info: bio-placeholder.jpg  used on input line 177.
+(pdftex.def)             Requested size: 113.70451pt x 142.37154pt.
+File: bio-placeholder.jpg Graphic file (type jpg)
+<use bio-placeholder.jpg>
+Package pdftex.def Info: bio-placeholder.jpg  used on input line 182.
+(pdftex.def)             Requested size: 113.70451pt x 142.37154pt.
+<toc-image.png, id=19, 156.585pt x 142.3719pt>
+File: toc-image.png Graphic file (type png)
+<use toc-image.png>
+Package pdftex.def Info: toc-image.png  used on input line 194.
+(pdftex.def)             Requested size: 156.58461pt x 142.37154pt.
+
 
 File: vch-logo.png Graphic file (type png)
 <use vch-logo.png>
-Package pdftex.def Info: vch-logo.png  used on input line 202.
+Package pdftex.def Info: vch-logo.png  used on input line 200.
 (pdftex.def)             Requested size: 71.13188pt x 21.21951pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -285,11 +332,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-12.81955pt}.
 
-[2 <./placeholder-image.png (PNG copy)>]
+[2]
 
 File: vch-logo.png Graphic file (type png)
 <use vch-logo.png>
-Package pdftex.def Info: vch-logo.png  used on input line 202.
+Package pdftex.def Info: vch-logo.png  used on input line 200.
 (pdftex.def)             Requested size: 71.13188pt x 21.21951pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -298,11 +345,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-12.81955pt}.
 
-[3]
+[3 <./placeholder-image.png (PNG copy)>]
 
 File: vch-logo.png Graphic file (type png)
 <use vch-logo.png>
-Package pdftex.def Info: vch-logo.png  used on input line 202.
+Package pdftex.def Info: vch-logo.png  used on input line 200.
 (pdftex.def)             Requested size: 71.13188pt x 21.21951pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -315,7 +362,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 File: vch-logo.png Graphic file (type png)
 <use vch-logo.png>
-Package pdftex.def Info: vch-logo.png  used on input line 202.
+Package pdftex.def Info: vch-logo.png  used on input line 200.
 (pdftex.def)             Requested size: 71.13188pt x 21.21951pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -324,11 +371,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-12.81955pt}.
 
-[5 <./bio-placeholder.jpg>]
+[5]
 
 File: vch-logo.png Graphic file (type png)
 <use vch-logo.png>
-Package pdftex.def Info: vch-logo.png  used on input line 202.
+Package pdftex.def Info: vch-logo.png  used on input line 200.
 (pdftex.def)             Requested size: 71.13188pt x 21.21951pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -337,7 +384,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-12.81955pt}.
 
-[6 <./toc-image.png (PNG copy)>] (./article.aux)
+[6 <./bio-placeholder.jpg>]
+
+File: vch-logo.png Graphic file (type png)
+<use vch-logo.png>
+Package pdftex.def Info: vch-logo.png  used on input line 200.
+(pdftex.def)             Requested size: 71.13188pt x 21.21951pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.81955pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.81955pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.81955pt}.
+
+[7 <./toc-image.png (PNG copy)>] (./article.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -348,18 +408,18 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 3762 strings out of 473190
- 66914 string characters out of 5715801
- 464704 words of memory out of 5000000
- 27024 multiletter control sequences out of 15000+600000
- 561653 words of font info for 45 fonts, out of 8000000 for 9000
+ 4600 strings out of 473190
+ 79900 string characters out of 5715801
+ 484058 words of memory out of 5000000
+ 27821 multiletter control sequences out of 15000+600000
+ 564573 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,15n,79p,428b,412s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on article.pdf (6 pages, 125984 bytes).
+ 72i,15n,79p,771b,419s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on article.pdf (7 pages, 166023 bytes).
 PDF statistics:
- 69 PDF objects out of 1000 (max. 8388607)
- 39 compressed objects within 1 object stream
+ 89 PDF objects out of 1000 (max. 8388607)
+ 52 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

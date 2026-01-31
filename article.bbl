@@ -1,0 +1,28 @@
+\begin{thebibliography}{1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+
+\bibitem{RefWorks:RefID:303-luo2023fabrication}
+C.~Luo, S.~Liu, W.~Luo, J.~Wang, H.~He, C.~Chen, L.~Xiao, C.~Liu, Y.~Li,
+\newblock Fabrication of {PLCL} block polymer with tunable structure and properties for biomedical application, \textbf{2023}.
+
+\bibitem{RefWorks:RefID:31-fernández2012synthesis}
+J.~Fernández, A.~Etxeberria, J.-R. Sarasua,
+\newblock \emph{Journal of the Mechanical Behavior of Biomedical Materials} \textbf{2012}, \emph{9} 100.
+
+\bibitem{RefWorks:RefID:19-zhang2021synthesis}
+M.~Zhang, Z.~Chang, X.~Wang, Q.~Li,
+\newblock \emph{Polymers} \textbf{2021}, \emph{13}, 8 1270.
+
+\bibitem{RefWorks:RefID:304-jeong2018mechanical}
+H.~Jeong, J.~Rho, J.-Y. Shin, Deuk, Y.~Lee, T.~Hwang, Kwang, J.~Kim \textbf{2018}.
+
+\bibitem{RefWorks:RefID:392-3devo}
+3devo filament makers,
+\newblock \urlprefix\url{https://www.3devo.com/filament-makers}.
+
+\bibitem{RefWorks:RefID:507-kalita2020endoflife}
+N.~K. Kalita, S.~M. Bhasney, C.~Mudenur, A.~Kalamdhad, V.~Katiyar,
+\newblock \emph{Chemosphere (Oxford)} \textbf{2020}, \emph{247} 125875.
+
+\end{thebibliography}

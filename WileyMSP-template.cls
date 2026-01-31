@@ -51,6 +51,10 @@ Keywords: \textit{#1}
 \textit{#1}: 
 }
 
+% Additional packages
+\usepackage{xcolor}
+\usepackage{soul}
+
 
   
 
