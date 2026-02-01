@@ -1,0 +1,139 @@
+\section{Introduction}
+\label{sec:introduction}
+
+\subsection{Motivation}
+\label{sec:introduction:motivation}
+PLCL (poly(l-lactide-co-$\epsilon$-caprolactone)) is a copolymer of poly(lactide acid) (PLA) and poly($\epsilon$-caprolactone) (PCL). These polymers are commonly used implantable materials for their biodegradability, non-toxic degradation products, and biocompatibility. Polyester-based polymers have increasingly been researched for use in biomedical applications~\cite{RefWorks:RefID:303-luo2023fabrication,RefWorks:RefID:31-fernández2012synthesis,RefWorks:RefID:19-zhang2021synthesis,RefWorks:RefID:304-jeong2018mechanical}.
+
+This research focused on extruding using a tabletop extruder. This methodology makes PLCL synthesis more accessible for small-scale labs. Additionally, it allows for fine-tuning of material composition which can directly impact degradation timeline, material properties, and performance characteristics such as 3D printability.
+
+\subsubsection{Increasing Accessibility}
+\label{sec:introduction:motivation:increasingAccessibility}
+
+Most existing methods for synthesizing PLCL require large, expensive equipment or specialized chemistry equipment and expertise (see Section~\ref{sec:introduction:existingMethods}).
+
+This methodology uses a tabletop extruder, such as a 3Devo Filament Maker One, which requires relatively low overhead, raw material, and prior expertise to operate~\cite{RefWorks:RefID:392-3devo}. By decreasing these requirements, this methodology is accessible for laboratories with limited funding and space.
+
+\subsubsection{Fine-Tuning Material Composition}
+\label{sec:introduction:motivation:materialComposition}
+
+Adjusting the material composition of PLCL, the percent composition of PLA and PCL co-polymers, can affect the degradation timeline, material properties, and performance characteristics of the output material.
+
+\paragraph{Degradation Timeline}
+
+\hl{Very little of my research revolved around degradation, but I can add more to this if you'd prefer.}
+
+The synthesis method as well as co-polymer material composition of PLCL affects the material's degradation timeline. By adjusting the breakdown of PLA and PCL in the blend, the time needed to fully biodegrade within the body can by altered~\cite{RefWorks:RefID:303-luo2023fabrication,RefWorks:RefID:507-kalita2020endoflife}.
+
+\paragraph{Material Properties}
+
+The material composition of PLCL has been found to directly impact material properties such as tensile strength and elastic modulus~\cite{RefWorks:RefID:303-luo2023fabrication,RefWorks:RefID:19-zhang2021synthesis}.
+
+PLA exhibits high strength but uncontrollable biodegradability and excessive brittleness. PCL, alternatively, is a softer material that exhibits low strength but high toughness. When combined to create PLCL, PCL incorporation can counteract the brittleness of PLA but decreases overall strength~\cite{RefWorks:RefID:19-zhang2021synthesis,RefWorks:RefID:303-luo2023fabrication}.
+
+Research has been conducted to evaluate the changes in properties based on various PLA/PCL ratios. These studies conclude that elongation at break generally increases with a higher percentage of PCL, and tensile strength and Young's modulus decrease with an increase in PCL~\cite{RefWorks:RefID:31-fernández2012synthesis,RefWorks:RefID:303-luo2023fabrication,RefWorks:RefID:18-v2022assessing}. Some of these results are shown below in Figure~\ref{fig:introduction:copolymerRatioProperties}.
+
+\begin{figure}
+        \includegraphics[width=\linewidth]{./figs/introduction/copolymer_ratio_mechanical_properties.png}
+        \caption{Changes in mechanical properties as PLA/PCL ratios are adjusted. (A,D) Elongation at break, (B,E) Tensile Strength, (C,F) Young's Modulus. Reproduced with permission.\textsuperscript{\cite{RefWorks:RefID:303-luo2023fabrication}} Copyright Year, Publisher. }
+        \label{fig:introduction:copolymerRatioProperties}
+\end{figure}
+
+Additionally, elastic behavior was only exhibited when PCL composition was high enough such as at least 30\% as illustrated in Figure~\ref{fig:introduction:pclForElasticBehavior}~\cite{RefWorks:RefID:18-v2022assessing}.
+
+\begin{figure}
+        \includegraphics[width=\linewidth]{./figs/introduction/pcl_for_elastic_behavior.png}
+        \caption{Changes in elastic behavior with increased PCL percentage. Reproduced with permission.\textsuperscript{\cite{RefWorks:RefID:18-v2022assessing}} Copyright Year, Publisher.}
+        \label{fig:introduction:pclForElasticBehavior}
+\end{figure}
+
+\paragraph{Performance Characteristics}
+
+\hl{Were there other "performance characteristics" besides 3D printability?}
+
+Performance characteristics such as 3D printability of the PLCL output are also affected by material composition. One study compared the printability of 70/30 and 65/35 PLA/PCL. Through various calibration testing, it was found that 70/30 PLA/PCL was the most printable PLCL copolymer~\cite{RefWorks:RefID:18-v2022assessing}. Figure~\ref{fig:introduction:copolymerGridTest} helps illustrate these differences in printability.
+
+\begin{figure}
+        \includegraphics[width=\linewidth]{./figs/introduction/copolymer_printability_grid_test.png}
+        \caption{Evaulating printability of 65/35 (left) and 70/30 (right) PLCL through a grid test. Reproduced with permission.\textsuperscript{\cite{RefWorks:RefID:18-v2022assessing}} Copyright Year, Publisher.}
+        \label{fig:introduction:copolymerGridTest}
+\end{figure}
+
+\subsection{Existing Methods}
+\label{sec:introduction:existingMethods}
+
+Various methods currently exist for synthesizing PLCL including laboratory synthesis, thermal techniques, large-scale extrusion, and proprietary methods.
+
+\subsubsection{Lab Synthesis}
+\label{sec:introduction:existingMethods:labSynthesis}
+
+In a laboratory setting, PLCL can be formed using ring-opening polymerization (ROP) or combining PLA and PCL with a dissolving agent~\cite{RefWorks:RefID:303-luo2023fabrication,RefWorks:RefID:304-jeong2018mechanical,RefWorks:RefID:253-åkerlund2022effect}.
+
+\paragraph{Ring-Opening Polymerization}
+
+In a laboratory setting, PLCL can be combined through ring-opening polymerization (ROP) to create random or block structure PLCL. Both of these synthesis methods require a dedicated laboratory setup and specific expertise~\cite{RefWorks:RefID:303-luo2023fabrication}.
+
+\paragraph{Dissolving Co-polymers}
+
+Another option for combining PLA and PCL into a PLCL copolymer is by chemically dissolving the materials together. Common solvents used for this are chloroform or dichloromethane (DCM).
+
+To perform this, PLA and PCL are dissolved in DCM or chloroform under agitation for three to four hours~\cite{RefWorks:RefID:304-jeong2018mechanical,RefWorks:RefID:253-åkerlund2022effect}.
+
+\subsubsection{Thermal-Based Synthesis}
+\label{sec:introduction:existingMethods:thermal}
+
+PLCL can be synthesized by using heat to melt PLA and PCL together. This has been done via specialized equipment for melting or injection molding~\cite{RefWorks:RefID:302-chen2025structure,RefWorks:RefID:251-fernández‐tena2023highimpact}.
+
+\paragraph{Thermal Blending}
+
+PLA and PCL can be melt-compounded through equipment such as an RM-200C torque internal mixer. This combines the materials into a PLCL "cake" that can be pelletized~\cite{RefWorks:RefID:302-chen2025structure}.
+
+\paragraph{Injection Molding}
+
+Injection molding is also a viable method to combine PLA and PCL into PLCL. Some literature employing injection molding have used this technology to fabricate tensile testing specimen~\cite{RefWorks:RefID:302-chen2025structure,RefWorks:RefID:251-fernández‐tena2023highimpact}.
+
+Injection molding alone has been found to poorly mix materials, however, causing some studies to combine PLA and PCL into a mixture before injection molding~\cite{RefWorks:RefID:302-chen2025structure}.
+
+\subsubsection{Large-Scale Extrusion}
+\label{sec:introduction:existingMethods:extrusion}
+
+PLA and PCL can be combined thermally via an extruder. Either single or twin screw extruders can be used for this operation, although literature gravitates towards using a twin screw extruder for more accurate mixing~\cite{RefWorks:RefID:62-ning2015additive,RefWorks:RefID:254-navarro-baena2016design,RefWorks:RefID:251-fernández‐tena2023highimpact}.
+
+\paragraph{Single Screw Extruder}
+
+While limited research exists regarding creating PLCL through a single screw extruder, one study did use a single screw extruder to combine a base material (ABS) with a powder filler (carbon fiber)~\cite{RefWorks:RefID:62-ning2015additive}.
+
+This study re-extruded the material to ensure adequate mixing and increase the bulk density, which in turn led to more consistent flow rate when 3D printing~\cite{RefWorks:RefID:62-ning2015additive}.
+
+Other research concluded that single screw extruders could carry and combine a binder and filler material, but inhomogeneously~\cite{RefWorks:RefID:363-savidevelopment}.
+
+\paragraph{Twin-Screw Extruder}
+
+Multiple studies utilize a twin screw extruder to combine PLA and PCL in synthesizing PLCL~\cite{RefWorks:RefID:254-navarro-baena2016design,RefWorks:RefID:251-fernández‐tena2023highimpact}. Twin screw extruders, specifically co-rotating extruders, are ideal for mixing multiple materials compared to single screw extruders~\cite{RefWorks:RefID:419-twin}.
+
+\subsubsection{Proprietary Methods}
+\label{sec:introduction:existingMethods:proprietary}
+
+Some companies have created 3D printable PLCL filament through disclosed proprietary methods. Lattice Medical is one example in which extrusion was noted as the general synthesis method, but exact parameters cannot be shared~\cite{RefWorks:RefID:508-lattice,RefWorks:RefID:42-latticemedical}. Collaborations with Lattice Medical were attempted prior to developing the synthesis method outlined in this paper.
+
+\subsection{Knowledge Gap}
+\label{sec:introduction:knowledgeGap}
+
+Existing methods are tailored for large-scale resource heavy production as they require significant overhead of space, equipment cost, subject-matter expertise, and high quantity of raw materials.
+
+\paragraph{Current Synthesis Scale}
+
+Knowledge gaps exist regarding the synthesis of PLCL on a small or medium scale. This includes a synthesis method that utilizes small tabletop equipment unlike injection molders or twin screw extruders. Additionally, by utilizing large-scale processes for this synthesis, large batch sizes limit the ability to customize the material composition as custom batches are more cost-efficient for smaller outputs. 
+
+Given the high volumes of raw materials required for large-scale PLCL synthesis, current procedures are unideal for early research or rapid prototyping, where frequent pivoting and small-scale testing may be required.
+
+\paragraph{Subject-Matter Expertise}
+
+Whether through laboratory synthesis or thermal-based approaches (see Section~\ref{sec:introduction:existingMethods}), current PLCL synthesis methods require substantial expertise and onboarding time to understand the equipment and process. This steep learning curve provides an additional hurdle for small research groups or companies interested in creating PLCL.
+
+\subsection{Novel Contributions of Current Findings}
+
+This synthesis method substantially reduces necessary factors of current methods such as onboarding and process expertise, large-scale equipment, and high volumes of raw materials.
+
+By decreasing the required overhead, PLCL synthesis can become accessible for research groups or companies with limited resources. This synthesis method can also be more efficiently utilized for small-scale testing and rapid prototyping compared to existing methods.
+

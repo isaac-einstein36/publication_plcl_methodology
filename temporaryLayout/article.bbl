@@ -1,0 +1,784 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{RefWorks:RefID:303-luo2023fabrication}{misc}{}{}
+      \name{author}{9}{}{%
+        {{hash=b0b664cd9cfa76d01f25409b08391284}{%
+           family={Luo},
+           familyi={L\bibinitperiod},
+           given={Chenmin},
+           giveni={C\bibinitperiod}}}%
+        {{hash=d75451a97f72e38297f378bcec5e59f1}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Shengyang},
+           giveni={S\bibinitperiod}}}%
+        {{hash=615b4b858d01489ded1e924ea4f38dee}{%
+           family={Luo},
+           familyi={L\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+        {{hash=49a19e08791a3dc09c932ff975949361}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Jing},
+           giveni={J\bibinitperiod}}}%
+        {{hash=08360adfa6964c7cefc9b748457e2bd7}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Hongyan},
+           giveni={H\bibinitperiod}}}%
+        {{hash=986423a4ec2949fd8d89c96382923767}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Can},
+           giveni={C\bibinitperiod}}}%
+        {{hash=e922b952c7bbc434a51683aeb1546656}{%
+           family={Xiao},
+           familyi={X\bibinitperiod},
+           given={Lan},
+           giveni={L\bibinitperiod}}}%
+        {{hash=1aecf64e8dd6a3961e7d437f61f0d070}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Changsheng},
+           giveni={C\bibinitperiod}}}%
+        {{hash=f645dc73099b41800dcbd85c58a2b7a8}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Yulin},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{eed51b748ddb3a991022e28d7b684745}
+      \strng{fullhash}{a8bf619d2a19ace69031517e85e34503}
+      \strng{fullhashraw}{a8bf619d2a19ace69031517e85e34503}
+      \strng{bibnamehash}{eed51b748ddb3a991022e28d7b684745}
+      \strng{authorbibnamehash}{eed51b748ddb3a991022e28d7b684745}
+      \strng{authornamehash}{eed51b748ddb3a991022e28d7b684745}
+      \strng{authorfullhash}{a8bf619d2a19ace69031517e85e34503}
+      \strng{authorfullhashraw}{a8bf619d2a19ace69031517e85e34503}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Biodegradable materials are pivotal in the biomedical field, where how to precisely control their structure and performance is critical for their translational application. In this study, poly(L-lactide-b-𝝐-caprolactone) block copolymers (bPLCL) with well-defined segment structure are obtained by a first synthesis of poly(𝝐-caprolactone) soft block, followed by ring opening polymerization of lactide to form poly(L-lactide acid) hard block. The pre-polymerization allows for fabrication of bPLCL with the definite compositions of soft/hard segment while preserving the individual segment of their special soft or hard segment. These priorities make the bPLCL afford biodegradable polymer with better mechanical and biodegradable controllability than the random poly(L-lactide-co-𝝐-caprolactone) (rPLCL) synthesized via traditional one-pot polymerization. 10 mol\% 𝝐-caprolactone introduction can result in a formation of an elastic polymer with elongation at break of 286.15\% ± 55.23\%. Also, bPLCL preserves the unique crystalline structure of the soft and hard segments to present a more sustainable biodegradability than the rPLCL. The combinative merits make the pre-polymerization technique a promising strategy for a scalable production of PLCL materials for potential biomedical application.}
+      \field{isbn}{1616-5187}
+      \field{journaltitle}{Macromolecular Bioscience}
+      \field{month}{-02-05}
+      \field{number}{4}
+      \field{title}{Fabrication of {PLCL} Block Polymer with Tunable Structure and Properties for Biomedical Application}
+      \field{volume}{23}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.1002/mabi.202200507
+      \endverb
+    \endentry
+    \entry{RefWorks:RefID:31-fernández2012synthesis}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=466a8af014cf16f8db467362624c185b}{%
+           family={Fernández},
+           familyi={F\bibinitperiod},
+           given={Jorge},
+           giveni={J\bibinitperiod}}}%
+        {{hash=aecc8aa705685c7135287f0881936877}{%
+           family={Etxeberria},
+           familyi={E\bibinitperiod},
+           given={Agustin},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b2184ef0068867cf1e6398500c115404}{%
+           family={Sarasua},
+           familyi={S\bibinitperiod},
+           given={Jose-Ramon},
+           giveni={J\bibinithyphendelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{4a01a0cf3e12539ac003c54076381483}
+      \strng{fullhash}{4a01a0cf3e12539ac003c54076381483}
+      \strng{fullhashraw}{4a01a0cf3e12539ac003c54076381483}
+      \strng{bibnamehash}{4a01a0cf3e12539ac003c54076381483}
+      \strng{authorbibnamehash}{4a01a0cf3e12539ac003c54076381483}
+      \strng{authornamehash}{4a01a0cf3e12539ac003c54076381483}
+      \strng{authorfullhash}{4a01a0cf3e12539ac003c54076381483}
+      \strng{authorfullhashraw}{4a01a0cf3e12539ac003c54076381483}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{17516161}
+      \field{journaltitle}{Journal of the Mechanical Behavior of Biomedical Materials}
+      \field{month}{5}
+      \field{title}{Synthesis, structure and properties of poly(L-lactide-co--caprolactone) statistical copolymers}
+      \field{volume}{9}
+      \field{year}{2012}
+      \field{pages}{100\bibrangedash 112}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1016/j.jmbbm.2012.01.003
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S1751616112000045
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S1751616112000045
+      \endverb
+    \endentry
+    \entry{RefWorks:RefID:19-zhang2021synthesis}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=08cebfffcd50a108d437f261e991958d}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Mengyuan},
+           giveni={M\bibinitperiod}}}%
+        {{hash=130e0e3c11c6b5f8899e3786bcc2d0af}{%
+           family={Chang},
+           familyi={C\bibinitperiod},
+           given={Zhonghua},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=93a575777f636107b8f65a815802b18f}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xiaofeng},
+           giveni={X\bibinitperiod}}}%
+        {{hash=9885f16be76c4e68e9c2aaf363a53600}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Qian},
+           giveni={Q\bibinitperiod}}}%
+      }
+      \strng{namehash}{46ef60b6ce28395327f794ccff8e2a66}
+      \strng{fullhash}{a397efccfd9a74131a3a341bdce11c8c}
+      \strng{fullhashraw}{a397efccfd9a74131a3a341bdce11c8c}
+      \strng{bibnamehash}{46ef60b6ce28395327f794ccff8e2a66}
+      \strng{authorbibnamehash}{46ef60b6ce28395327f794ccff8e2a66}
+      \strng{authornamehash}{46ef60b6ce28395327f794ccff8e2a66}
+      \strng{authorfullhash}{a397efccfd9a74131a3a341bdce11c8c}
+      \strng{authorfullhashraw}{a397efccfd9a74131a3a341bdce11c8c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{2073-4360}
+      \field{journaltitle}{Polymers}
+      \field{number}{8}
+      \field{title}{Synthesis of Poly(l-lactide-co-e-caprolactone) Copolymer: Structure, Toughness, and Elasticity}
+      \field{volume}{13}
+      \field{year}{2021}
+      \field{pages}{1270}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/polym13081270
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2073-4360/13/8/1270
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2073-4360/13/8/1270
+      \endverb
+      \keyw{Found By Adrian}
+    \endentry
+    \entry{RefWorks:RefID:304-jeong2018mechanical}{article}{}{}
+      \name{author}{8}{}{%
+        {{hash=f93bac39a1096322673728db1a7147c6}{%
+           family={Jeong},
+           familyi={J\bibinitperiod},
+           given={Heeseok},
+           giveni={H\bibinitperiod}}}%
+        {{hash=d70582a27e1f9ed6efe38b04e761072a}{%
+           family={Rho},
+           familyi={R\bibinitperiod},
+           given={Jeongwon},
+           giveni={J\bibinitperiod}}}%
+        {{hash=1a0243341786e6b14dcb425e42d43e6d}{%
+           family={Shin},
+           familyi={S\bibinitperiod},
+           given={Ji-Yeon},
+           giveni={J\bibinithyphendelim Y\bibinitperiod}}}%
+        {{hash=b4f7e6214c69b73af55b140657eec995}{%
+           family={Deuk},
+           familyi={D\bibinitperiod}}}%
+        {{hash=0df3606aa8d81340fb597bb73dc78584}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Yong},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=abc940cac857ea872dbc5c74593c4be3}{%
+           family={Hwang},
+           familyi={H\bibinitperiod},
+           given={Taeseon},
+           giveni={T\bibinitperiod}}}%
+        {{hash=73258fb69e6e71a90dba1ad6d9188d21}{%
+           family={Kwang},
+           familyi={K\bibinitperiod}}}%
+        {{hash=b2236af712a294693dcea632d195b1fb}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{48ae735a3d81d1a14d6886ee1ba69ba0}
+      \strng{fullhash}{5ba99bf2f1dbfe7b495cdab0849dc17a}
+      \strng{fullhashraw}{5ba99bf2f1dbfe7b495cdab0849dc17a}
+      \strng{bibnamehash}{48ae735a3d81d1a14d6886ee1ba69ba0}
+      \strng{authorbibnamehash}{48ae735a3d81d1a14d6886ee1ba69ba0}
+      \strng{authornamehash}{48ae735a3d81d1a14d6886ee1ba69ba0}
+      \strng{authorfullhash}{5ba99bf2f1dbfe7b495cdab0849dc17a}
+      \strng{authorfullhashraw}{5ba99bf2f1dbfe7b495cdab0849dc17a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{4}
+      \field{title}{Mechanical properties and cytotoxicity of {PLA}/{PCL} films}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.1007/s13534-018-0065-4
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/article/10.1007/s13534-018-0065-4
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/article/10.1007/s13534-018-0065-4
+      \endverb
+    \endentry
+    \entry{RefWorks:RefID:392-3devo}{misc}{}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{3Devo}
+      \field{title}{3Devo Filament Makers}
+      \verb{urlraw}
+      \verb https://www.3devo.com/filament-makers
+      \endverb
+      \verb{url}
+      \verb https://www.3devo.com/filament-makers
+      \endverb
+    \endentry
+    \entry{RefWorks:RefID:507-kalita2020endoflife}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=8a2239e3b1accc0027a211bc7afa7530}{%
+           family={Kalita},
+           familyi={K\bibinitperiod},
+           given={Naba\bibnamedelima Kumar},
+           giveni={N\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=dfc2bd0d84caac9e0c4bf1adde5485db}{%
+           family={Bhasney},
+           familyi={B\bibinitperiod},
+           given={Siddharth\bibnamedelima Mohan},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=b570d03f09f0d4ba0f426995f938e22b}{%
+           family={Mudenur},
+           familyi={M\bibinitperiod},
+           given={Chethana},
+           giveni={C\bibinitperiod}}}%
+        {{hash=7b45192e8e6c911454b18f00aa5433f7}{%
+           family={Kalamdhad},
+           familyi={K\bibinitperiod},
+           given={Ajay},
+           giveni={A\bibinitperiod}}}%
+        {{hash=f3c801bef850079a89460f63a2a5f986}{%
+           family={Katiyar},
+           familyi={K\bibinitperiod},
+           given={Vimal},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{0e0342e2091d00699f6efe0224367330}
+      \strng{fullhash}{c6edcd6646d6432e8fe05566d625fd17}
+      \strng{fullhashraw}{c6edcd6646d6432e8fe05566d625fd17}
+      \strng{bibnamehash}{0e0342e2091d00699f6efe0224367330}
+      \strng{authorbibnamehash}{0e0342e2091d00699f6efe0224367330}
+      \strng{authornamehash}{0e0342e2091d00699f6efe0224367330}
+      \strng{authorfullhash}{c6edcd6646d6432e8fe05566d625fd17}
+      \strng{authorfullhashraw}{c6edcd6646d6432e8fe05566d625fd17}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The present study evaluates biodegradation of the polyblends of poly(lactic acid) (PLA), polycaprolactone (PCL) and microcrystalline cellulose (MCC) in different compositions and comparison of the properties of those blends with that of neat PLA and neat PCL. The samples were melt extruded and blended to evaluate the environmental fate of the polyblends under simulated composting conditions following the standard ASTM International D5338-15 protocol. It was seen that blends with a higher concentration of PCL and MCC in the PLA matrix showed higher carbon mineralization percentage in comparison to the blends having low PCL and MCC components. Molecular weight analysis of the samples showed a decrease in their weight due to chain scission mechanism leading to the formation of intermediates. Analytical techniques revealed the formation of microbial biofilms on the blended biopolymeric surfaces. Field emission scanning electron microscopy showed the formation of fibril-like structures by PLA, and the formation of rough patches on the PCL surface re-confirmed biodegradation of the samples. This work fuels interest in the material characterization of PLA/PCL/MCC based polyblends and helps in tuning the biodegradability of the studied samples according to the demands. [Display omitted] •This study demonstrates PCL/PLA/MCC:80/20/3 as best compostable material.•Study was conducted under composting condition at thermophilic temperature.•This study demonstrated biofilm formation.•Surface morphological changes were observed for all the test samples.•Study demonstrated formation of fibril like morphology on PLA based surfaces.}
+      \field{isbn}{0045-6535}
+      \field{journaltitle}{Chemosphere (Oxford)}
+      \field{month}{5}
+      \field{title}{End-of-life evaluation and biodegradation of Poly(lactic acid) ({PLA})/Polycaprolactone ({PCL})/Microcrystalline cellulose ({MCC}) polyblends under composting conditions}
+      \field{volume}{247}
+      \field{year}{2020}
+      \field{pages}{125875}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.chemosphere.2020.125875
+      \endverb
+      \verb{urlraw}
+      \verb https://dx.doi.org/10.1016/j.chemosphere.2020.125875
+      \endverb
+      \verb{url}
+      \verb https://dx.doi.org/10.1016/j.chemosphere.2020.125875
+      \endverb
+    \endentry
+    \entry{RefWorks:RefID:18-v2022assessing}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=9d1bc7c05332dca1fddeab51fa0a81cc}{%
+           family={G},
+           familyi={G\bibinitperiod},
+           given={Rahul\bibnamedelima V},
+           giveni={R\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=e399cf2e003dc99bf6bbdd54f2fbf591}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={Jijo},
+           giveni={J\bibinitperiod}}}%
+        {{hash=406a847ce31ee59e2689632dade630fa}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={Lynda\bibnamedelima V},
+           giveni={L\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=03ce1cc17b8b576ad4ad3c7b38c56da1}{%
+           family={Nair},
+           familyi={N\bibinitperiod},
+           given={Prabha\bibnamedelima D.},
+           giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{69a3773be4a69b8c2aa165f7044daa9d}
+      \strng{fullhash}{cad85e5815f146430cbe997c9e2b41f2}
+      \strng{fullhashraw}{cad85e5815f146430cbe997c9e2b41f2}
+      \strng{bibnamehash}{69a3773be4a69b8c2aa165f7044daa9d}
+      \strng{authorbibnamehash}{69a3773be4a69b8c2aa165f7044daa9d}
+      \strng{authornamehash}{69a3773be4a69b8c2aa165f7044daa9d}
+      \strng{authorfullhash}{cad85e5815f146430cbe997c9e2b41f2}
+      \strng{authorfullhashraw}{cad85e5815f146430cbe997c9e2b41f2}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The advent of 3D printing technology has made remarkable progress in the field of tissue engineering. Yet, it has been challenging to reproduce the desired mechanical properties of certain tissues by 3D printing. This was majorly due to the lack of 3D printable materials possessing mechanical properties similar to the native tissue. In this study, we have synthesized four different ratios of poly(caprolactone-co-lactide (PLCL) and tested their 3D printing capabilities. The physicochemical properties of the material were characterized using Fourier-transform infrared (FTIR) spectroscopy, nuclear magnetic resonance (NMR) spectroscopy, gel permeation chromatography (GPC), and differential scanning calorimetry (DSC). Furthermore, the mechanical properties were assessed using the universal testing machine (UTM). The ratio with the higher lactide content was found to have better printability. Out of the different ratios assessed, a suitable ratio having the desired mechanical properties and printability was identified and 3D printed into a tracheal scaffold. Thus, PLCL can be a potential material for 3D printing of tissues like the trachea.}
+      \field{isbn}{2470-1343}
+      \field{journaltitle}{ACS omega}
+      \field{month}{3}
+      \field{note}{-70/30 PLCL is the best mixture level for printability}
+      \field{number}{8}
+      \field{title}{Assessing the {3D} Printability of an Elastomeric Poly(caprolactone-co-lactide) Copolymer as a Potential Material for {3D} Printing Tracheal Scaffolds.}
+      \field{volume}{7}
+      \field{year}{2022}
+      \field{pages}{7002\bibrangedash 7011}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1021/acsomega.1c06679
+      \endverb
+      \verb{urlraw}
+      \verb https://pubs-acs-org.proxy.lib.ohio-state.edu/doi/pdf/10.1021/acsomega.1c06679?ref=article_openPDF
+      \endverb
+      \verb{url}
+      \verb https://pubs-acs-org.proxy.lib.ohio-state.edu/doi/pdf/10.1021/acsomega.1c06679?ref=article_openPDF
+      \endverb
+      \keyw{Found By Adrian}
+    \endentry
+    \entry{RefWorks:RefID:253-åkerlund2022effect}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=9261fd32726b143021fde66ddccfa421}{%
+           family={Åkerlund},
+           familyi={Å\bibinitperiod},
+           given={Elin},
+           giveni={E\bibinitperiod}}}%
+        {{hash=4d45ea40b73904207deee89dfd9cfe1d}{%
+           family={Diez-Escudero},
+           familyi={D\bibinithyphendelim E\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c277a5f687d1587d3bbe446c53860d6f}{%
+           family={Grzeszczak},
+           familyi={G\bibinitperiod},
+           given={Ana},
+           giveni={A\bibinitperiod}}}%
+        {{hash=df066f0d677370a2691c7c3dd86a192a}{%
+           family={Persson},
+           familyi={P\bibinitperiod},
+           given={Cecilia},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{c72276a21ff2d7cd3ca69145ef07dcb1}
+      \strng{fullhash}{ffb45690e8bb778db81137860b8b39d9}
+      \strng{fullhashraw}{ffb45690e8bb778db81137860b8b39d9}
+      \strng{bibnamehash}{c72276a21ff2d7cd3ca69145ef07dcb1}
+      \strng{authorbibnamehash}{c72276a21ff2d7cd3ca69145ef07dcb1}
+      \strng{authornamehash}{c72276a21ff2d7cd3ca69145ef07dcb1}
+      \strng{authorfullhash}{ffb45690e8bb778db81137860b8b39d9}
+      \strng{authorfullhashraw}{ffb45690e8bb778db81137860b8b39d9}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The still-growing field of additive manufacturing (AM), which includes 3D printing, has enabled manufacturing of patient-specific medical devices with high geometrical accuracy in a relatively quick manner. However, the development of materials with specific properties is still ongoing, including those for enhanced bone-repair applications. Such applications seek materials with tailored mechanical properties close to bone tissue and, importantly, that can serve as temporary supports, allowing for new bone ingrowth while the material is resorbed. Thus, controlling the resorption rate of materials for bone applications can support bone healing by balancing new tissue formation and implant resorption. In this regard, this work aimed to study the combination of polylactic acid (PLA), polycaprolactone (PCL) and hydroxyapatite (HA) to develop customized biocompatible and bioresorbable polymer-based composite filaments, through extrusion, for fused filament fabrication (FFF) printing. PLA and PCL were used as supporting polymer matrices while HA was added to enhance the biological activity. The materials were characterized in terms of mechanical properties, thermal stability, chemical composition and morphology. An accelerated degradation study was executed to investigate the impact of degradation on the above-mentioned properties. The results showed that the materials' chemical compositions were not affected by the extrusion nor the printing process. All materials exhibited higher mechanical properties than human trabecular bone, even after degradation with a mass loss of around 30\% for the polymer blends and 60\% for the composites. It was also apparent that the mineral accelerated the polymer degradation significantly, which can be advantageous for a faster healing time, where support is required only for a shorter time period.}
+      \field{journaltitle}{Polymers}
+      \field{month}{-08-13}
+      \field{number}{16}
+      \field{title}{The Effect of {PCL} Addition on {3D}-Printable {PLA}/{HA} Composite Filaments for the Treatment of Bone Defects}
+      \field{volume}{14}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.3390/polym14163305
+      \endverb
+      \verb{urlraw}
+      \verb https://www.proquest.com/docview/2706276503?pq-origsite=primo\&searchKeywords=10.3390\%2Fpolym14163305\&sourcetype=Scholarly\%20Journals
+      \endverb
+      \verb{url}
+      \verb https://www.proquest.com/docview/2706276503?pq-origsite=primo%5C&searchKeywords=10.3390%5C%2Fpolym14163305%5C&sourcetype=Scholarly%5C%20Journals
+      \endverb
+    \endentry
+    \entry{RefWorks:RefID:302-chen2025structure}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=1d66d2fc7287690ce528244b64afd465}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Meiqiong},
+           giveni={M\bibinitperiod}}}%
+        {{hash=14986c875f51cd7fab4a76c06934bb55}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Yinghong},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=20e36044995694a7da852bc0256f5c24}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Haihao},
+           giveni={H\bibinitperiod}}}%
+        {{hash=cd5302f91a237083c667183b38624740}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Xinwen},
+           giveni={X\bibinitperiod}}}%
+        {{hash=d78d9f118cf4ab50783df878af0fadb4}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Ning},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{bf3a4aa9da23886be0714772def526e6}
+      \strng{fullhash}{6a3e8ab99486a465253fc589dd255d4a}
+      \strng{fullhashraw}{6a3e8ab99486a465253fc589dd255d4a}
+      \strng{bibnamehash}{bf3a4aa9da23886be0714772def526e6}
+      \strng{authorbibnamehash}{bf3a4aa9da23886be0714772def526e6}
+      \strng{authornamehash}{bf3a4aa9da23886be0714772def526e6}
+      \strng{authorfullhash}{6a3e8ab99486a465253fc589dd255d4a}
+      \strng{authorfullhashraw}{6a3e8ab99486a465253fc589dd255d4a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this study, the microinjection molding technology was adopted to prepare polylactic acid (PLA)/polycaprolactone (PCL)/bioactive glass (BG) composites with varying BG contents for biomedical applications. The various measurement techniques, including scanning electronic microscopy (SEM), X-ray diffraction (XRD), Fourier transform infrared (FT-IR) spectroscopy, the water contact angle (WCA) test, the mechanical test, and in vitro biological evaluations, were applied to characterize the above interesting biocomposites. The experimental results show that the extremely strong shear force field generated during the microinjection molding process could induce the in situ formation of micron PCL dispersed phase fibril structures and strongly promote the homogeneous dispersion of micron BG filler particles in the PLA/PCL polymer matrix, which therefore leads to a significant improvement in the specific mechanical property of the PLA/PCL/BG composite. For example, with BG fillers content increasing to 10 wt\%, the Young's modulus of the above obtained PLA/PCL/BG composite could reach 2122.9 MPa, which is 1.47 times higher than that of the unfilled PLA/PCL blend material. In addition, it is also found that under the simulated body fluid (SBF) environment, the incorporated BG fillers in the PLA/PCL polymer matrix could be effectively transformed into hydroxyapatite (HA) components on the treated sample surface, thus being greatly advantageous to enhancing the material's in vitro bioactivity. Obviously, the microinjection molded PLA/PCL/BG biocomposites could exhibit excellent comprehensive performance, revealing that the microinjection molding processing method could hold great potential in industrialization applications of the resulting biodegradable biomedical materials.}
+      \field{journaltitle}{Polymers}
+      \field{month}{-04-06}
+      \field{number}{7}
+      \field{title}{Structure and Property Evolution of Microinjection Molded {PLA}/{PCL}/Bioactive Glass Composite}
+      \field{volume}{17}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.3390/polym17070991
+      \endverb
+      \verb{urlraw}
+      \verb https://go-gale-com.proxy.lib.ohio-state.edu/ps/i.do?p=AONE\&u=colu44332\&id=GALE\%7CA838367418\&v=2.1\&it=r
+      \endverb
+      \verb{url}
+      \verb https://go-gale-com.proxy.lib.ohio-state.edu/ps/i.do?p=AONE%5C&u=colu44332%5C&id=GALE%5C%7CA838367418%5C&v=2.1%5C&it=r
+      \endverb
+    \endentry
+    \entry{RefWorks:RefID:251-fernández‐tena2023highimpact}{misc}{}{}
+      \name{author}{7}{}{%
+        {{hash=373375b1314df0c4898e2c18688e8314}{%
+           family={Fernández‐tena},
+           familyi={F\bibinithyphendelim t\bibinitperiod},
+           given={Ainhoa},
+           giveni={A\bibinitperiod}}}%
+        {{hash=bc781ac3d449de51ad52018bf95784b3}{%
+           family={Otaegi},
+           familyi={O\bibinitperiod},
+           given={Itziar},
+           giveni={I\bibinitperiod}}}%
+        {{hash=2d3a8d8ad4f6d5bc1841de061615359c}{%
+           family={Irusta},
+           familyi={I\bibinitperiod},
+           given={Lourdes},
+           giveni={L\bibinitperiod}}}%
+        {{hash=7630e60ea923170c86c8ec27c94ef7d6}{%
+           family={Sebastián},
+           familyi={S\bibinitperiod},
+           given={Victor},
+           giveni={V\bibinitperiod}}}%
+        {{hash=1e37d739ba239ab374cc792fd3a6c960}{%
+           family={Guerrica‐echevarria},
+           familyi={G\bibinithyphendelim e\bibinitperiod},
+           given={Gonzalo},
+           giveni={G\bibinitperiod}}}%
+        {{hash=c6b94cb3eb724b22694566bb5f2cc998}{%
+           family={Müller},
+           familyi={M\bibinitperiod},
+           given={Alejandro\bibnamedelima Jesus},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=109fc78aa47e3188645ef1e245283840}{%
+           family={Aranburu},
+           familyi={A\bibinitperiod},
+           given={Nora},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{339fbe5f33465daf01b7599b06f888f7}
+      \strng{fullhash}{ab25931f31bfbc3e336b7b141a03e003}
+      \strng{fullhashraw}{ab25931f31bfbc3e336b7b141a03e003}
+      \strng{bibnamehash}{339fbe5f33465daf01b7599b06f888f7}
+      \strng{authorbibnamehash}{339fbe5f33465daf01b7599b06f888f7}
+      \strng{authornamehash}{339fbe5f33465daf01b7599b06f888f7}
+      \strng{authorfullhash}{ab25931f31bfbc3e336b7b141a03e003}
+      \strng{authorfullhashraw}{ab25931f31bfbc3e336b7b141a03e003}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this work, the effectiveness of seven commercial compatibilizers is tested in polylactide (PLA)/poly(𝝐-caprolactone) (PCL) blends with different compositions to obtain a high-impact PLA. None of the compatibilizers is effective for 90/10 and 80/20 PLA/PCL compositions, as no improvement of the impact strength is observed. For the 70/30 composition, compatibilizers having glycidyl methacrylate (GMA) and acrylate groups in their structure are proved the most effective, as the morphological change towards co-continuity induced by them leads to significant impact strength improvements (of ≈345\% and 90\% with respect to the neat PLA and the noncompatibilized PLA/PCL 70/30 blend, respectively). The 70/30 PLA/PCL composition, as it shows the best balance of properties, and the best compatibilizer (ElvaloyPTW) are chosen to carry out the optimization of the compatibilizer content. It is found that adding 6 phr to the blend results in highly toughened and ductile blends while maintaining a high modulus and yield strength values. Larger compatibilizer contents lead to even higher impact strength values, but the low-strain mechanical properties are notably reduced. Thus, in this work, a simple and easily scalable method to produce high-impact PLA is shown, as it implies the compounding of three commercially available components without involving any toxic solvents.}
+      \field{isbn}{1438-7492}
+      \field{journaltitle}{Macromolecular Materials and Engineering}
+      \field{month}{-09-22}
+      \field{number}{12}
+      \field{title}{High‐Impact {PLA} in Compatibilized {PLA}/{PCL} Blends: Optimization of Blend Composition and Type and Content of Compatibilizer}
+      \field{volume}{308}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.1002/mame.202300213
+      \endverb
+      \verb{urlraw}
+      \verb https://www.proquest.com/docview/2901250674?pq-origsite=primo\&searchKeywords=10.1002\%2Fmame.202300213\&sourcetype=Scholarly\%20Journals
+      \endverb
+      \verb{url}
+      \verb https://www.proquest.com/docview/2901250674?pq-origsite=primo%5C&searchKeywords=10.1002%5C%2Fmame.202300213%5C&sourcetype=Scholarly%5C%20Journals
+      \endverb
+    \endentry
+    \entry{RefWorks:RefID:62-ning2015additive}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=2ac042f5707ec9face918fd9cb307afa}{%
+           family={Ning},
+           familyi={N\bibinitperiod},
+           given={Fuda},
+           giveni={F\bibinitperiod}}}%
+        {{hash=d301f33d3c0571e7ef7ab93d68f1b2f8}{%
+           family={Cong},
+           familyi={C\bibinitperiod},
+           given={Weilong},
+           giveni={W\bibinitperiod}}}%
+        {{hash=fd4488a53e0d600441dd2a601ebcfbef}{%
+           family={Qiu},
+           familyi={Q\bibinitperiod},
+           given={Jingjing},
+           giveni={J\bibinitperiod}}}%
+        {{hash=eda33448c7aeadcd71183be5f2ff59a7}{%
+           family={Wei},
+           familyi={W\bibinitperiod},
+           given={Junhua},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c9ee5f26775cf6a7b07c1f810a05828b}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Shiren},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{55363229f5cd4d812e061a54b7633594}
+      \strng{fullhash}{feeeadd358487fba51cfbb97405dd43d}
+      \strng{fullhashraw}{feeeadd358487fba51cfbb97405dd43d}
+      \strng{bibnamehash}{55363229f5cd4d812e061a54b7633594}
+      \strng{authorbibnamehash}{55363229f5cd4d812e061a54b7633594}
+      \strng{authornamehash}{55363229f5cd4d812e061a54b7633594}
+      \strng{authorfullhash}{feeeadd358487fba51cfbb97405dd43d}
+      \strng{authorfullhashraw}{feeeadd358487fba51cfbb97405dd43d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Additive manufacturing (AM) technologies have been successfully applied in various applications. Fused deposition modeling (FDM), one of the most popular AM techniques, is the most widely used method for fabricating thermoplastic parts those are mainly used as rapid prototypes for functional testing with advantages of low cost, minimal wastage, and ease of material change. Due to the intrinsically limited mechanical properties of pure thermoplastic materials, there is a critical need to improve mechanical properties for FDM-fabricated pure thermoplastic parts. One of the possible methods is adding reinforced materials (such as carbon fibers) into plastic materials to form thermoplastic matrix carbon fiber reinforced plastic (CFRP) composites those could be directly used in the actual application areas, such as aerospace, automotive, and wind energy. This paper is going to present FDM of thermoplastic matrix CFRP composites and test if adding carbon fiber (different content and length) can improve the mechanical properties of FDM-fabricated parts. The CFRP feedstock filaments were fabricated from plastic pellets and carbon fiber powders for FDM process. After FDM fabrication, effects on the tensile properties (including tensile strength, Young's modulus, toughness, yield strength, and ductility) and flexural properties (including flexural stress, flexural modulus, flexural toughness, and flexural yield strength) of specimens were experimentally investigated. In order to explore the parts fracture reasons during tensile and flexural tests, fracture interface of CFRP composite specimens after tensile testing and flexural testing was observed and analyzed using SEM micrograph.}
+      \field{isbn}{1359-8368}
+      \field{journaltitle}{Composites Part B: Engineering}
+      \field{month}{-06-20}
+      \field{note}{Key Point:<br>- To combine materials before extruding filament, using a blender may be required}
+      \field{title}{Additive manufacturing of carbon fiber reinforced thermoplastic composites using fused deposition modeling}
+      \field{volume}{80}
+      \field{year}{2015}
+      \verb{doi}
+      \verb 10.1016/j.compositesb.2015.06.013
+      \endverb
+      \keyw{Composite; Combining Materials; Extrusion}
+    \endentry
+    \entry{RefWorks:RefID:254-navarro-baena2016design}{article}{}{}
+      \name{author}{6}{}{%
+        {{hash=b19026d27b6beb88c93f32acc05fc1f9}{%
+           family={Navarro-Baena},
+           familyi={N\bibinithyphendelim B\bibinitperiod},
+           given={Iván},
+           giveni={I\bibinitperiod}}}%
+        {{hash=158e0e731b5c106147e2e93b9cff1ed9}{%
+           family={Sessini},
+           familyi={S\bibinitperiod},
+           given={Valentina},
+           giveni={V\bibinitperiod}}}%
+        {{hash=36ab021c1c9136d69fdaa3352a4b32bf}{%
+           family={Dominici},
+           familyi={D\bibinitperiod},
+           given={Franco},
+           giveni={F\bibinitperiod}}}%
+        {{hash=752aa487c5b2190a6201d22d39ee19bc}{%
+           family={Torre},
+           familyi={T\bibinitperiod},
+           given={Luigi},
+           giveni={L\bibinitperiod}}}%
+        {{hash=4ce977099edf26c5ee20ba41d6f68bcc}{%
+           family={Kenny},
+           familyi={K\bibinitperiod},
+           given={Jose\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=5f26b9a0d6cd445465a7792660bb9e0c}{%
+           family={Peponi},
+           familyi={P\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{59569b543bdfc1d362357a18f19e10ad}
+      \strng{fullhash}{f4e415ec89be07c6c66ac2bb00d5e02b}
+      \strng{fullhashraw}{f4e415ec89be07c6c66ac2bb00d5e02b}
+      \strng{bibnamehash}{59569b543bdfc1d362357a18f19e10ad}
+      \strng{authorbibnamehash}{59569b543bdfc1d362357a18f19e10ad}
+      \strng{authornamehash}{59569b543bdfc1d362357a18f19e10ad}
+      \strng{authorfullhash}{f4e415ec89be07c6c66ac2bb00d5e02b}
+      \strng{authorfullhashraw}{f4e415ec89be07c6c66ac2bb00d5e02b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Blending commercial homopolymers represents a low cost and an easy scalable process to extend the use of the pristine homopolymers to an industrial level. Actually, the processing of blends by extrusion is the usual solution followed in the industry. However, commonly polymer blends are immiscible, provoking phase separation, which can be in the macro, micro or nano scale, depending on the polymers as well as on the processing conditions, affecting the final properties of the blends. Therefore, this paper aims to study the shape memory behavior in biodegradable blends based on poly(lactic acid) (PLA) and poly(εcaprolactone) (PCL) in different concentrations. A completely thermal and mechanical characterization of the blends was performed, correlating the results with the observed morphology. In addition, two different biodegradation studies were performed in order to correlate the effect of each homopolymer with the degradation behavior of the biodegradable blends.}
+      \field{isbn}{0141-3910}
+      \field{journaltitle}{Polymer Degradation and Stability}
+      \field{month}{-04-01}
+      \field{title}{Design of biodegradable blends based on {PLA} and {PCL}: From morphological, thermal and mechanical studies to shape memory behavior}
+      \field{volume}{132}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.1016/j.polymdegradstab.2016.03.037
+      \endverb
+      \verb{urlraw}
+      \verb https://journals-ohiolink-edu.proxy.lib.ohio-state.edu/acprod/odb_ejc/r/ejc/search/99?p99_entity_id=268216412\&p99_entity_type=MAIN_FILE\&cs=3omWGvLJ3YQc3SSEGasSVvmLpAFqaaMrIspokvGgLhacyLRoW3CMEnDxvrrbdlnXb2gy6CI0ixQesKSCsjmfI-A
+      \endverb
+      \verb{url}
+      \verb https://journals-ohiolink-edu.proxy.lib.ohio-state.edu/acprod/odb_ejc/r/ejc/search/99?p99_entity_id=268216412%5C&p99_entity_type=MAIN_FILE%5C&cs=3omWGvLJ3YQc3SSEGasSVvmLpAFqaaMrIspokvGgLhacyLRoW3CMEnDxvrrbdlnXb2gy6CI0ixQesKSCsjmfI-A
+      \endverb
+    \endentry
+    \entry{RefWorks:RefID:363-savidevelopment}{misc}{}{}
+      \name{author}{5}{}{%
+        {{hash=ea0d63b5f116c1398170d5a0eb2162dc}{%
+           family={Savi},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=cf5d5e3673490540b3fe3c083aea99c3}{%
+           family={Andrade},
+           familyi={A\bibinitperiod},
+           given={;.},
+           giveni={;\bibinitperiod}}}%
+        {{hash=73ad6f685a649a257bfa429265b5d182}{%
+           family={Villani},
+           familyi={V\bibinitperiod},
+           given={;.},
+           giveni={;\bibinitperiod}}}%
+        {{hash=7c021c88b3d82ee56331ee9ce834ac13}{%
+           family={Rodrigues},
+           familyi={R\bibinitperiod},
+           given={;.},
+           giveni={;\bibinitperiod}}}%
+        {{hash=4b8adac32a6bc8ea116b99c4b3933450}{%
+           family={Potiens},
+           familyi={P\bibinitperiod},
+           given={M.\bibnamedelimi P.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{4be2a390d9fa0ff384aa1b6f49aa124d}
+      \strng{fullhash}{89c4b466b88f30e03d951a519735fbc1}
+      \strng{fullhashraw}{89c4b466b88f30e03d951a519735fbc1}
+      \strng{bibnamehash}{4be2a390d9fa0ff384aa1b6f49aa124d}
+      \strng{authorbibnamehash}{4be2a390d9fa0ff384aa1b6f49aa124d}
+      \strng{authornamehash}{4be2a390d9fa0ff384aa1b6f49aa124d}
+      \strng{authorfullhash}{89c4b466b88f30e03d951a519735fbc1}
+      \strng{authorfullhashraw}{89c4b466b88f30e03d951a519735fbc1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The use of 3D printing technologies is growing widely, including the possibility of designing phantoms for imaging and dosimetry. High attenuation tissues such as cortical bone, dentin and enamel need to be simulated to accurately produce 3D printed phantoms, especially for Fused Filament Fabrication (FFF) printing technology. A commercially available radiopaque FFF filament had been hard to find. This study aims to report, step-by-step, the development of a radiopaque FFF filament. A combination of radiopaque substances (Barium Sulfate-BaSO4 and Calcium Carbonate-CaCO3) were selected for use as fillers in an Acrylonitrile Butadiene Styrene (ABS) matrix and added in quantities calculated using the National Institute of Standards and Technology (NIST) XCOM tool. The filament was homogenized and characterized by analyzing its density and images obtained using Scanning Electron Microscopy (SEM), Computed Tomography (CT) and micro-CT (µCT) scans. Three filaments were produced with different Hounsfield Units (HU) equivalences: XCT-A (1607HU), XCT-B (1965HU) and XCT-C (2624HU) with respective densities of 1.166(6) g/cm³, 1.211(2) g/cm³ and 1.271(3) g/cm³. With these values, high attenuation tissues, such as bones, dentine and enamel, can now be simulated with FFF 3D printing technology, at a low cost of production.}
+      \field{isbn}{2319-0612}
+      \field{title}{Development of {FFF} filaments for bone and teeth representation in {3D} printed radiological objects}
+    \endentry
+    \entry{RefWorks:RefID:419-twin}{misc}{}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{nanoScience Instruments}
+      \field{title}{What is a Twin Screw Extruder? Types, Applications, and Benefits Explained}
+      \verb{urlraw}
+      \verb https://www.nanoscience.com/blogs/what-is-a-twin-screw-extruder-types-applications-and-benefits-explained/
+      \endverb
+      \verb{url}
+      \verb https://www.nanoscience.com/blogs/what-is-a-twin-screw-extruder-types-applications-and-benefits-explained/
+      \endverb
+    \endentry
+    \entry{RefWorks:RefID:508-lattice}{misc}{}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{3Devo}
+      \field{title}{Lattice Medical's Success Story Pioneering Medical Advances}
+      \verb{urlraw}
+      \verb https://www.3devo.com/lattice-medical-case-study
+      \endverb
+      \verb{url}
+      \verb https://www.3devo.com/lattice-medical-case-study
+      \endverb
+    \endentry
+    \entry{RefWorks:RefID:42-latticemedical}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=a184ae4576ed917c8e51eefe36ad0b83}{%
+           family={Services},
+           familyi={S\bibinitperiod},
+           given={Lattice},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{a184ae4576ed917c8e51eefe36ad0b83}
+      \strng{fullhash}{a184ae4576ed917c8e51eefe36ad0b83}
+      \strng{fullhashraw}{a184ae4576ed917c8e51eefe36ad0b83}
+      \strng{bibnamehash}{a184ae4576ed917c8e51eefe36ad0b83}
+      \strng{authorbibnamehash}{a184ae4576ed917c8e51eefe36ad0b83}
+      \strng{authornamehash}{a184ae4576ed917c8e51eefe36ad0b83}
+      \strng{authorfullhash}{a184ae4576ed917c8e51eefe36ad0b83}
+      \strng{authorfullhashraw}{a184ae4576ed917c8e51eefe36ad0b83}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Medical Grade {PLCL} Filament}
+      \verb{urlraw}
+      \verb https://lattice-services.com/en/absorbable-implantable-filaments/caprolactisse-70-30/
+      \endverb
+      \verb{url}
+      \verb https://lattice-services.com/en/absorbable-implantable-filaments/caprolactisse-70-30/
+      \endverb
+    \endentry
+  \enddatalist
+  \missing{Smith:2023qr}
+  \missing{Smith:2024jd}
+\endrefsection
+\endinput
+
