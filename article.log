@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  31 JAN 2026 13:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  31 JAN 2026 21:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -641,7 +641,7 @@ Overfull \hbox (21.22752pt too wide) in paragraph at lines 6--7
 <vch-logo.png, id=41, 71.0655pt x 21.1992pt>
 File: vch-logo.png Graphic file (type png)
 <use vch-logo.png>
-Package pdftex.def Info: vch-logo.png  used on input line 33.
+Package pdftex.def Info: vch-logo.png  used on input line 31.
 (pdftex.def)             Requested size: 71.13188pt x 21.21951pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -722,11 +722,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-12.81955pt}.
 
-[4 <./figs/introduction/copolymer_printability_grid_test.png>]) (./article.bbl
+[4 <./figs/introduction/copolymer_printability_grid_test.png>])
 
 File: vch-logo.png Graphic file (type png)
 <use vch-logo.png>
-Package pdftex.def Info: vch-logo.png  used on input line 13.
+Package pdftex.def Info: vch-logo.png  used on input line 75.
 (pdftex.def)             Requested size: 71.13188pt x 21.21951pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -735,7 +735,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-12.81955pt}.
 
-[5]
+[5] (./article.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 41--44
 []\OT1/cmr/m/n/12 A. Fern^^Sandez-tena, I. Otaegi, L. Irusta, V. Se-basti^^San, G. Guerrica-echevarria, A. J. 
  []
@@ -766,6 +766,19 @@ Overfull \hbox (139.06676pt too wide) in paragraph at lines 58--60
  []
 
 
+
+File: vch-logo.png Graphic file (type png)
+<use vch-logo.png>
+Package pdftex.def Info: vch-logo.png  used on input line 60.
+(pdftex.def)             Requested size: 71.13188pt x 21.21951pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.81955pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.81955pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.81955pt}.
+
+[6]
 Underfull \hbox (badness 10000) in paragraph at lines 62--64
 []\OT1/cmr/m/n/12 Lattice med-i-cal's suc-cess story pi-o-neer-ing med-i-cal ad-vances,  URL 
  []
@@ -781,7 +794,7 @@ Overfull \hbox (9.3917pt too wide) in paragraph at lines 66--69
  []
 
 )
-<placeholder-image.png, id=75, 284.5029pt x 284.5029pt>
+<placeholder-image.png, id=79, 284.5029pt x 284.5029pt>
 File: placeholder-image.png Graphic file (type png)
 <use placeholder-image.png>
 Package pdftex.def Info: placeholder-image.png  used on input line 132.
@@ -794,7 +807,7 @@ File: placeholder-image.png Graphic file (type png)
 <use placeholder-image.png>
 Package pdftex.def Info: placeholder-image.png  used on input line 144.
 (pdftex.def)             Requested size: 542.02501pt x 542.02843pt.
-<bio-placeholder.jpg, id=76, 113.7048pt x 142.3719pt>
+<bio-placeholder.jpg, id=80, 113.7048pt x 142.3719pt>
 File: bio-placeholder.jpg Graphic file (type jpg)
 <use bio-placeholder.jpg>
 Package pdftex.def Info: bio-placeholder.jpg  used on input line 168.
@@ -811,7 +824,7 @@ File: bio-placeholder.jpg Graphic file (type jpg)
 <use bio-placeholder.jpg>
 Package pdftex.def Info: bio-placeholder.jpg  used on input line 183.
 (pdftex.def)             Requested size: 113.70451pt x 142.37154pt.
-<toc-image.png, id=77, 156.585pt x 142.3719pt>
+<toc-image.png, id=81, 156.585pt x 142.3719pt>
 File: toc-image.png Graphic file (type png)
 <use toc-image.png>
 Package pdftex.def Info: toc-image.png  used on input line 195.
@@ -829,7 +842,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-12.81955pt}.
 
-[6]
+[7]
 
 File: vch-logo.png Graphic file (type png)
 <use vch-logo.png>
@@ -842,20 +855,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-12.81955pt}.
 
-[7 <./placeholder-image.png (PNG copy)>]
-
-File: vch-logo.png Graphic file (type png)
-<use vch-logo.png>
-Package pdftex.def Info: vch-logo.png  used on input line 201.
-(pdftex.def)             Requested size: 71.13188pt x 21.21951pt.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.81955pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.81955pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.81955pt}.
-
-[8]
+[8 <./placeholder-image.png (PNG copy)>]
 
 File: vch-logo.png Graphic file (type png)
 <use vch-logo.png>
@@ -881,7 +881,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-12.81955pt}.
 
-[10 <./bio-placeholder.jpg>]
+[10]
 
 File: vch-logo.png Graphic file (type png)
 <use vch-logo.png>
@@ -894,7 +894,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-12.81955pt}.
 
-[11 <./toc-image.png (PNG copy)>] (./article.aux)
+[11 <./bio-placeholder.jpg>]
+
+File: vch-logo.png Graphic file (type png)
+<use vch-logo.png>
+Package pdftex.def Info: vch-logo.png  used on input line 201.
+(pdftex.def)             Requested size: 71.13188pt x 21.21951pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.81955pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.81955pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.81955pt}.
+
+[12 <./toc-image.png (PNG copy)>] (./article.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -907,16 +920,16 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  22879 strings out of 473190
  494773 string characters out of 5715801
- 903009 words of memory out of 5000000
+ 902010 words of memory out of 5000000
  45753 multiletter control sequences out of 15000+600000
  565701 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  117i,16n,120p,771b,558s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on article.pdf (11 pages, 656126 bytes).
+Output written on article.pdf (12 pages, 658296 bytes).
 PDF statistics:
- 145 PDF objects out of 1000 (max. 8388607)
- 75 compressed objects within 1 object stream
+ 148 PDF objects out of 1000 (max. 8388607)
+ 77 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  192 words of extra memory for PDF output out of 10000 (max. 10000000)
 
