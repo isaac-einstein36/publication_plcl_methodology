@@ -1,8 +1,8 @@
-PWD /Users/sierrabasic/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Ohio State/Master's Degree/_Teams Folder/Publications/Isaac/Github Repos/plcl_methodology
+PWD /Users/sierrabasic/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Ohio State/Master's Degree/_Teams Folder/Project Documentation/Publications/Isaac/Github Repos/plcl_methodology
 INPUT /usr/local/texlive/2025/texmf.cnf
 INPUT /usr/local/texlive/2025/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/sierrabasic/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Ohio State/Master's Degree/_Teams Folder/Publications/Isaac/Github Repos/plcl_methodology/article.tex
+INPUT /Users/sierrabasic/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Ohio State/Master's Degree/_Teams Folder/Project Documentation/Publications/Isaac/Github Repos/plcl_methodology/article.tex
 OUTPUT article.log
 INPUT ./WileyMSP-template.cls
 INPUT WileyMSP-template.cls
